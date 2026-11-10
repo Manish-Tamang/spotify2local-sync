@@ -1,0 +1,57 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Music sync</title><style>
+:root{--bg:#fff;--fg:#111;--mut:#6b6b6b;--line:#e8e8e8;--brand:#1db954;--card:#fafafa}
+@media (prefers-color-scheme:dark){:root{--bg:#0f0f0f;--fg:#eee;--mut:#9a9a9a;--line:#262626;--card:#161616}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,Segoe UI,sans-serif}
+main{max-width:900px;margin:0 auto;padding:32px 16px}h1{font-size:22px;letter-spacing:-.02em;margin:0 0 4px}
+p.sub{color:var(--mut);margin:0 0 24px}.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media(max-width:700px){.grid{grid-template-columns:1fr}}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
+label{font-size:13px;color:var(--mut);display:block;margin:0 0 6px}
+input,textarea,select{width:100%;border:1px solid var(--line);border-radius:10px;padding:9px 11px;background:var(--bg);color:var(--fg);font:inherit}
+textarea{height:140px;font:12px/1.4 ui-monospace,monospace}
+button{border:0;border-radius:999px;padding:10px 18px;font:600 14px system-ui;color:#fff;cursor:pointer;
+background:linear-gradient(180deg,#2bd468,var(--brand));box-shadow:inset 0 1px 0 rgba(255,255,255,.35),0 1px 2px rgba(0,0,0,.15)}
+button.ghost{background:transparent;color:var(--fg);border:1px solid var(--line);box-shadow:none}
+button:disabled{opacity:.5;cursor:default}.row{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.stat{display:flex;gap:24px;flex-wrap:wrap}.stat b{display:block;font-size:22px;letter-spacing:-.02em}.stat span{color:var(--mut);font-size:13px}
+pre{background:#0b0b0b;color:#cfe9d6;border-radius:14px;padding:14px;height:340px;overflow:auto;font:12px/1.45 ui-monospace,monospace;white-space:pre-wrap;margin:16px 0 0}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:#bbb}.ok{background:var(--brand)}
+</style></head><body><main>
+<h1>Music sync</h1><p class="sub">Spotify playlist → tagged MP3s with covers and lyrics → phone</p>
+<div class="card stat" style="margin-bottom:16px">
+ <div><b id="songs">–</b><span>songs in library</span></div>
+ <div><b id="pls">–</b><span>playlists</span></div>
+ <div><b id="phone"><span class="dot"></span>–</b><span>phone</span></div>
+ <div><b id="job">idle</b><span>status</span></div>
+</div>
+<div class="grid">
+ <form class="card" onsubmit="go(event,'sync')">
+  <label>Playlist</label><input name="name" list="plist" placeholder="Nepali Grunge" required>
+  <datalist id="plist"></datalist>
+  <label style="margin-top:10px">Track links — in Spotify desktop open the playlist, Ctrl+A, Ctrl+C, paste here</label>
+  <textarea name="links" required placeholder="https://open.spotify.com/track/…"></textarea>
+  <div class="row"><button>Sync to phone</button></div>
+ </form>
+ <div class="card">
+  <label>Maintenance</label>
+  <div class="row"><button class="ghost" onclick="go(event,'backup')">Back up phone</button>
+  <button class="ghost" onclick="go(event,'build')">Rebuild library</button>
+  <button class="ghost" onclick="go(event,'push')">Preview push</button>
+  <button class="ghost" onclick="go(event,'push-apply')">Push to phone</button>
+  <button class="ghost" onclick="go(event,'cleanup')">Preview cleanup</button></div>
+  <p class="sub" style="margin:12px 0 0;font-size:13px">Push only adds files. Cleanup (removing old copies) is a dry run here;
+  run <code>python -m msync cleanup --apply</code> yourself once you've checked the phone.</p>
+ </div>
+</div>
+<pre id="log"></pre>
+<script>
+async function go(e,what){e.preventDefault();const body=what==='sync'?new URLSearchParams(new FormData(e.target)):'';
+ await fetch('/run/'+what,{method:'POST',body});poll()}
+async function poll(){const s=await (await fetch('/state')).json();
+ songs.textContent=s.songs;pls.textContent=s.playlists.length;job.textContent=s.running||'idle';
+ phone.innerHTML='<span class="dot '+(s.phone==='device'?'ok':'')+'"></span>'+(s.phone==='device'?'connected':s.phone);
+ plist.innerHTML=s.playlists.map(p=>'<option value="'+p+'">').join('');
+ const atBottom=log.scrollTop+log.clientHeight>=log.scrollHeight-20;log.textContent=s.log.join('\n');if(atBottom)log.scrollTop=log.scrollHeight}
+poll();setInterval(poll,1500)
+</script></main></body></html>
