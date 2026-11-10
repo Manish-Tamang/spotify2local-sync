@@ -1,0 +1,11 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# local state: your library catalog, playlists, caches, downloads, reports
+data/
+*.egg-info/
+build/
+dist/
