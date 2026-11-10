@@ -1,0 +1,28 @@
+[project]
+name = "spotify2local-sync"
+version = "0.1.0"
+description = "Mirror Spotify playlists to a local, fully tagged MP3 library (covers + lyrics) and sync it to an Android phone over ADB — no Spotify API or Premium needed."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mutagen>=1.47",
+    "pillow>=10",
+    "rapidfuzz>=3",
+    "requests>=2.31",
+    "yt-dlp[default]>=2025.10",
+    "ytmusicapi>=1.8",
+]
+
+[project.scripts]
+msync = "msync.cli:main"
+msync-web = "msync.web:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["msync"]
+
+[tool.setuptools.package-data]
+msync = ["ui/*.html"]
