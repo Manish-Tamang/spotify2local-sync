@@ -1,0 +1,4 @@
+{
+  "_help": "Fix a wrong/missing match: \"<path under Music/>\": \"Artist - Title\". Use \"skip\" to leave a file untouched. Then run: python -m msync identify && python -m msync build",
+  "Grunge/3AM - Matchbox Twenty.mp3": "Matchbox Twenty - 3AM"
+}
