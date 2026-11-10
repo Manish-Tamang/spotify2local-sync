@@ -1,0 +1,1879 @@
+{
+"_help": "Normalized artist name (lowercase ascii, single spaces) -> [Language, Genre]. Folder = Language/Genre. Run `msync artists` to list artists missing here.",
+"chumbak": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"albatross": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"cobweb": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"monkey temple nepal": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"topi": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"jhilkey and the company": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"pariwartan": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"pahenlo batti muni": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"shailu rai": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"shaurav bhattarai": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"autobutts": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"kush band nepal": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"grunchiez": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"retroverts": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"bikram sambat": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"shree 3": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"robin and the new revolution": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"cherry blossom band": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"guess what": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"anuprastha": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"trail of the nimbus": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"wabiisabii": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"nside out": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"asm": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"aina": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"okhar band nepal": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"tumbleweed inc": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"mohini band": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"the alchemist": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"ayurveda": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"phosphenes": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"the surmount nepal": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"alt f4": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"side project nepal": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"jindabaad": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"harip tatwo": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"the frozen": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"space": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"bhram": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"atomic bush": [
+"Nepali",
+"Grunge & Alt Rock"
+],
+"the edge band": [
+"Nepali",
+"Rock"
+],
+"the elements": [
+"Nepali",
+"Rock"
+],
+"jptrockerz": [
+"Nepali",
+"Rock"
+],
+"rockheads": [
+"Nepali",
+"Rock"
+],
+"tribal rain": [
+"Nepali",
+"Rock"
+],
+"tribal rain sikkim": [
+"Nepali",
+"Rock"
+],
+"dibya subba": [
+"Nepali",
+"Rock"
+],
+"divya subba": [
+"Nepali",
+"Rock"
+],
+"axix": [
+"Nepali",
+"Rock"
+],
+"sabin rai": [
+"Nepali",
+"Rock"
+],
+"sabin rai and the pharaoh": [
+"Nepali",
+"Rock"
+],
+"the shadows nepal": [
+"Nepali",
+"Rock"
+],
+"the uglyz": [
+"Nepali",
+"Rock"
+],
+"chirag khadka": [
+"Nepali",
+"Rock"
+],
+"mantra band": [
+"Nepali",
+"Rock"
+],
+"1974 ad": [
+"Nepali",
+"Rock"
+],
+"kta haru": [
+"Nepali",
+"Rock"
+],
+"ethos band": [
+"Nepali",
+"Rock"
+],
+"the axe": [
+"Nepali",
+"Rock"
+],
+"karma band": [
+"Nepali",
+"Rock"
+],
+"ulto pulto": [
+"Nepali",
+"Rock"
+],
+"the firantee": [
+"Nepali",
+"Rock"
+],
+"the buds": [
+"Nepali",
+"Rock"
+],
+"nanku": [
+"Nepali",
+"Rock"
+],
+"brihat pahari": [
+"Nepali",
+"Rock"
+],
+"rajeeb prawat": [
+"Nepali",
+"Rock"
+],
+"neetesh jung kunwar": [
+"Nepali",
+"Pop"
+],
+"swoopna suman": [
+"Nepali",
+"Pop"
+],
+"sushant kc": [
+"Nepali",
+"Pop"
+],
+"nabin k bhattarai": [
+"Nepali",
+"Pop"
+],
+"adrian pradhan": [
+"Nepali",
+"Pop"
+],
+"anil singh": [
+"Nepali",
+"Pop"
+],
+"b 8eight": [
+"Nepali",
+"Pop"
+],
+"bikki gurung": [
+"Nepali",
+"Pop"
+],
+"naren limbu": [
+"Nepali",
+"Pop"
+],
+"yabesh thapa": [
+"Nepali",
+"Pop"
+],
+"vek": [
+"Nepali",
+"Pop"
+],
+"sugam pokharel": [
+"Nepali",
+"Pop"
+],
+"kamal khatri": [
+"Nepali",
+"Pop"
+],
+"abinash subbha limbu": [
+"Nepali",
+"Pop"
+],
+"aryan magar": [
+"Nepali",
+"Pop"
+],
+"ashtoast": [
+"Nepali",
+"Pop"
+],
+"rajeev lohani": [
+"Nepali",
+"Pop"
+],
+"bijay gurung": [
+"Nepali",
+"Pop"
+],
+"dixita karki": [
+"Nepali",
+"Pop"
+],
+"sudip giri": [
+"Nepali",
+"Pop"
+],
+"mandeep": [
+"Nepali",
+"Pop"
+],
+"deepen rai": [
+"Nepali",
+"Pop"
+],
+"karl wine": [
+"Nepali",
+"Pop"
+],
+"sunil giri": [
+"Nepali",
+"Pop"
+],
+"nima rumba": [
+"Nepali",
+"Pop"
+],
+"nitu pun": [
+"Nepali",
+"Pop"
+],
+"prabesh kumar shrestha": [
+"Nepali",
+"Pop"
+],
+"raju lama": [
+"Nepali",
+"Pop"
+],
+"brijesh shrestha": [
+"Nepali",
+"Pop"
+],
+"salin magar": [
+"Nepali",
+"Pop"
+],
+"jems pradhan": [
+"Nepali",
+"Pop"
+],
+"rev the beast": [
+"Nepali",
+"Pop"
+],
+"ujan shakya": [
+"Nepali",
+"Pop"
+],
+"waiba buddha": [
+"Nepali",
+"Pop"
+],
+"almoda rana uprety": [
+"Nepali",
+"Pop"
+],
+"artmandu": [
+"Nepali",
+"Pop"
+],
+"sujan chapagain": [
+"Nepali",
+"Pop"
+],
+"samir shrestha": [
+"Nepali",
+"Pop"
+],
+"dj bishow": [
+"Nepali",
+"Pop"
+],
+"samriddhi rai": [
+"Nepali",
+"Pop"
+],
+"varsha thapa": [
+"Nepali",
+"Pop"
+],
+"sajjan raj vaidya": [
+"Nepali",
+"Indie & Acoustic"
+],
+"arthur gunn": [
+"Nepali",
+"Indie & Acoustic"
+],
+"dibesh pokharel": [
+"Nepali",
+"Indie & Acoustic"
+],
+"bipul chettri": [
+"Nepali",
+"Indie & Acoustic"
+],
+"bartika eam rai": [
+"Nepali",
+"Indie & Acoustic"
+],
+"purna rai": [
+"Nepali",
+"Indie & Acoustic"
+],
+"swar": [
+"Nepali",
+"Indie & Acoustic"
+],
+"oasis thapa": [
+"Nepali",
+"Indie & Acoustic"
+],
+"kelsang shrestha": [
+"Nepali",
+"Indie & Acoustic"
+],
+"ankita pun": [
+"Nepali",
+"Indie & Acoustic"
+],
+"john rai": [
+"Nepali",
+"Indie & Acoustic"
+],
+"apurva tamang": [
+"Nepali",
+"Indie & Acoustic"
+],
+"tunna bell thapa": [
+"Nepali",
+"Indie & Acoustic"
+],
+"shashwot khadka": [
+"Nepali",
+"Indie & Acoustic"
+],
+"shirish khadka": [
+"Nepali",
+"Indie & Acoustic"
+],
+"bekcha": [
+"Nepali",
+"Indie & Acoustic"
+],
+"prashant ezekiel rai": [
+"Nepali",
+"Indie & Acoustic"
+],
+"rohit john chettri": [
+"Nepali",
+"Indie & Acoustic"
+],
+"the dreamcatchers official": [
+"Nepali",
+"Indie & Acoustic"
+],
+"angu bhutia": [
+"Nepali",
+"Indie & Acoustic"
+],
+"ankit shrestha": [
+"Nepali",
+"Indie & Acoustic"
+],
+"wangden sherpa": [
+"Nepali",
+"Indie & Acoustic"
+],
+"yankee yolmo": [
+"Nepali",
+"Indie & Acoustic"
+],
+"sudhan rai": [
+"Nepali",
+"Indie & Acoustic"
+],
+"prajina": [
+"Nepali",
+"Indie & Acoustic"
+],
+"roshan limbu": [
+"Nepali",
+"Indie & Acoustic"
+],
+"sravya": [
+"Nepali",
+"Indie & Acoustic"
+],
+"rodit bhandari": [
+"Nepali",
+"Indie & Acoustic"
+],
+"aayush koju": [
+"Nepali",
+"Indie & Acoustic"
+],
+"subash ghalan": [
+"Nepali",
+"Indie & Acoustic"
+],
+"bluesss": [
+"Nepali",
+"Hip-Hop"
+],
+"mc flo": [
+"Nepali",
+"Hip-Hop"
+],
+"yama buddha": [
+"Nepali",
+"Hip-Hop"
+],
+"sacar": [
+"Nepali",
+"Hip-Hop"
+],
+"sacar aka lil buddha": [
+"Nepali",
+"Hip-Hop"
+],
+"nepsydaz": [
+"Nepali",
+"Hip-Hop"
+],
+"vten": [
+"Nepali",
+"Hip-Hop"
+],
+"krizn": [
+"Nepali",
+"Hip-Hop"
+],
+"lil jhola": [
+"Nepali",
+"Hip-Hop"
+],
+"gxsoul": [
+"Nepali",
+"Hip-Hop"
+],
+"black horse pictures": [
+"Nepali",
+"Hip-Hop"
+],
+"andazification": [
+"Nepali",
+"Hip-Hop"
+],
+"nattu shah": [
+"Nepali",
+"Hip-Hop"
+],
+"vzn": [
+"Nepali",
+"Hip-Hop"
+],
+"dong": [
+"Nepali",
+"Hip-Hop"
+],
+"bikyy karki": [
+"Nepali",
+"Hip-Hop"
+],
+"uges limbu": [
+"Nepali",
+"Hip-Hop"
+],
+"surya shyangden": [
+"Nepali",
+"Hip-Hop"
+],
+"uniq poet": [
+"Nepali",
+"Hip-Hop"
+],
+"trishna gurung": [
+"Nepali",
+"Folk & Classics"
+],
+"narayan gopal": [
+"Nepali",
+"Folk & Classics"
+],
+"yogeshwor amatya": [
+"Nepali",
+"Folk & Classics"
+],
+"kuma sagar": [
+"Nepali",
+"Folk & Classics"
+],
+"deepak bajracharya": [
+"Nepali",
+"Folk & Classics"
+],
+"gopal yonjan": [
+"Nepali",
+"Folk & Classics"
+],
+"diwas gurung": [
+"Nepali",
+"Folk & Classics"
+],
+"kali prasad baskota": [
+"Nepali",
+"Folk & Classics"
+],
+"pearl jam": [
+"English",
+"Grunge & Alt Rock"
+],
+"alice in chains": [
+"English",
+"Grunge & Alt Rock"
+],
+"nirvana": [
+"English",
+"Grunge & Alt Rock"
+],
+"soundgarden": [
+"English",
+"Grunge & Alt Rock"
+],
+"stone temple pilots": [
+"English",
+"Grunge & Alt Rock"
+],
+"audioslave": [
+"English",
+"Grunge & Alt Rock"
+],
+"temple of the dog": [
+"English",
+"Grunge & Alt Rock"
+],
+"mad season": [
+"English",
+"Grunge & Alt Rock"
+],
+"screaming trees": [
+"English",
+"Grunge & Alt Rock"
+],
+"mother love bone": [
+"English",
+"Grunge & Alt Rock"
+],
+"chris cornell": [
+"English",
+"Grunge & Alt Rock"
+],
+"bush": [
+"English",
+"Grunge & Alt Rock"
+],
+"silverchair": [
+"English",
+"Grunge & Alt Rock"
+],
+"foo fighters": [
+"English",
+"Grunge & Alt Rock"
+],
+"the smashing pumpkins": [
+"English",
+"Grunge & Alt Rock"
+],
+"radiohead": [
+"English",
+"Grunge & Alt Rock"
+],
+"creed": [
+"English",
+"Grunge & Alt Rock"
+],
+"collective soul": [
+"English",
+"Grunge & Alt Rock"
+],
+"matchbox twenty": [
+"English",
+"Grunge & Alt Rock"
+],
+"the goo goo dolls": [
+"English",
+"Grunge & Alt Rock"
+],
+"third eye blind": [
+"English",
+"Grunge & Alt Rock"
+],
+"semisonic": [
+"English",
+"Grunge & Alt Rock"
+],
+"lifehouse": [
+"English",
+"Grunge & Alt Rock"
+],
+"linkin park": [
+"English",
+"Grunge & Alt Rock"
+],
+"limp bizkit": [
+"English",
+"Grunge & Alt Rock"
+],
+"green day": [
+"English",
+"Grunge & Alt Rock"
+],
+"blink 182": [
+"English",
+"Grunge & Alt Rock"
+],
+"red hot chili peppers": [
+"English",
+"Grunge & Alt Rock"
+],
+"daughtry": [
+"English",
+"Grunge & Alt Rock"
+],
+"the calling": [
+"English",
+"Grunge & Alt Rock"
+],
+"hootie and the blowfish": [
+"English",
+"Grunge & Alt Rock"
+],
+"paramore": [
+"English",
+"Grunge & Alt Rock"
+],
+"avenged sevenfold": [
+"English",
+"Grunge & Alt Rock"
+],
+"pantera": [
+"English",
+"Grunge & Alt Rock"
+],
+"metallica": [
+"English",
+"Grunge & Alt Rock"
+],
+"oasis": [
+"English",
+"Grunge & Alt Rock"
+],
+"jeff buckley": [
+"English",
+"Grunge & Alt Rock"
+],
+"spin doctors": [
+"English",
+"Grunge & Alt Rock"
+],
+"wheatus": [
+"English",
+"Grunge & Alt Rock"
+],
+"the cranberries": [
+"English",
+"Grunge & Alt Rock"
+],
+"ghost": [
+"English",
+"Grunge & Alt Rock"
+],
+"maneskin": [
+"English",
+"Grunge & Alt Rock"
+],
+"toploader": [
+"English",
+"Grunge & Alt Rock"
+],
+"guns n roses": [
+"English",
+"Classic Rock"
+],
+"bon jovi": [
+"English",
+"Classic Rock"
+],
+"jon bon jovi": [
+"English",
+"Classic Rock"
+],
+"scorpions": [
+"English",
+"Classic Rock"
+],
+"bryan adams": [
+"English",
+"Classic Rock"
+],
+"the beatles": [
+"English",
+"Classic Rock"
+],
+"george harrison": [
+"English",
+"Classic Rock"
+],
+"pink floyd": [
+"English",
+"Classic Rock"
+],
+"led zeppelin": [
+"English",
+"Classic Rock"
+],
+"ac dc": [
+"English",
+"Classic Rock"
+],
+"aerosmith": [
+"English",
+"Classic Rock"
+],
+"queen": [
+"English",
+"Classic Rock"
+],
+"freddie mercury": [
+"English",
+"Classic Rock"
+],
+"rainbow": [
+"English",
+"Classic Rock"
+],
+"whitesnake": [
+"English",
+"Classic Rock"
+],
+"white lion": [
+"English",
+"Classic Rock"
+],
+"poison": [
+"English",
+"Classic Rock"
+],
+"journey": [
+"English",
+"Classic Rock"
+],
+"eagles": [
+"English",
+"Classic Rock"
+],
+"creedence clearwater revival": [
+"English",
+"Classic Rock"
+],
+"bob dylan": [
+"English",
+"Classic Rock"
+],
+"don mclean": [
+"English",
+"Classic Rock"
+],
+"ozzy osbourne": [
+"English",
+"Classic Rock"
+],
+"lynyrd skynyrd": [
+"English",
+"Classic Rock"
+],
+"tom petty": [
+"English",
+"Classic Rock"
+],
+"bruce springsteen": [
+"English",
+"Classic Rock"
+],
+"the police": [
+"English",
+"Classic Rock"
+],
+"sting": [
+"English",
+"Classic Rock"
+],
+"heart": [
+"English",
+"Classic Rock"
+],
+"foreigner": [
+"English",
+"Classic Rock"
+],
+"nazareth": [
+"English",
+"Classic Rock"
+],
+"the alan parsons project": [
+"English",
+"Classic Rock"
+],
+"roxette": [
+"English",
+"Classic Rock"
+],
+"the outfield": [
+"English",
+"Classic Rock"
+],
+"abba": [
+"English",
+"Classic Rock"
+],
+"the storm": [
+"English",
+"Classic Rock"
+],
+"michael learns to rock": [
+"English",
+"Classic Rock"
+],
+"billy joel": [
+"English",
+"Classic Rock"
+],
+"ben e king": [
+"English",
+"Classic Rock"
+],
+"labi siffre": [
+"English",
+"Classic Rock"
+],
+"rodriguez": [
+"English",
+"Classic Rock"
+],
+"bad company": [
+"English",
+"Classic Rock"
+],
+"extreme": [
+"English",
+"Classic Rock"
+],
+"air supply": [
+"English",
+"Classic Rock"
+],
+"alphaville": [
+"English",
+"Classic Rock"
+],
+"rod stewart": [
+"English",
+"Classic Rock"
+],
+"peter paul and mary": [
+"English",
+"Classic Rock"
+],
+"eric clapton": [
+"English",
+"Classic Rock"
+],
+"john mayer": [
+"English",
+"Classic Rock"
+],
+"whiskey myers": [
+"English",
+"Classic Rock"
+],
+"u2": [
+"English",
+"Classic Rock"
+],
+"fools garden": [
+"English",
+"Classic Rock"
+],
+"future": [
+"English",
+"Hip-Hop & R&B"
+],
+"xxxtentacion": [
+"English",
+"Hip-Hop & R&B"
+],
+"juice wrld": [
+"English",
+"Hip-Hop & R&B"
+],
+"lil tecca": [
+"English",
+"Hip-Hop & R&B"
+],
+"lil uzi vert": [
+"English",
+"Hip-Hop & R&B"
+],
+"eminem": [
+"English",
+"Hip-Hop & R&B"
+],
+"2pac": [
+"English",
+"Hip-Hop & R&B"
+],
+"travis scott": [
+"English",
+"Hip-Hop & R&B"
+],
+"j cole": [
+"English",
+"Hip-Hop & R&B"
+],
+"akon": [
+"English",
+"Hip-Hop & R&B"
+],
+"sean kingston": [
+"English",
+"Hip-Hop & R&B"
+],
+"iyaz": [
+"English",
+"Hip-Hop & R&B"
+],
+"chris brown": [
+"English",
+"Hip-Hop & R&B"
+],
+"dj khaled": [
+"English",
+"Hip-Hop & R&B"
+],
+"dj clue": [
+"English",
+"Hip-Hop & R&B"
+],
+"rae sremmurd": [
+"English",
+"Hip-Hop & R&B"
+],
+"young thug": [
+"English",
+"Hip-Hop & R&B"
+],
+"snoop dogg": [
+"English",
+"Hip-Hop & R&B"
+],
+"central cee": [
+"English",
+"Hip-Hop & R&B"
+],
+"dave": [
+"English",
+"Hip-Hop & R&B"
+],
+"brent faiyaz": [
+"English",
+"Hip-Hop & R&B"
+],
+"frank ocean": [
+"English",
+"Hip-Hop & R&B"
+],
+"daniel caesar": [
+"English",
+"Hip-Hop & R&B"
+],
+"giveon": [
+"English",
+"Hip-Hop & R&B"
+],
+"khalid": [
+"English",
+"Hip-Hop & R&B"
+],
+"kali uchis": [
+"English",
+"Hip-Hop & R&B"
+],
+"steve lacy": [
+"English",
+"Hip-Hop & R&B"
+],
+"luh kel": [
+"English",
+"Hip-Hop & R&B"
+],
+"shiloh dynasty": [
+"English",
+"Hip-Hop & R&B"
+],
+"powfu": [
+"English",
+"Hip-Hop & R&B"
+],
+"estelle": [
+"English",
+"Hip-Hop & R&B"
+],
+"gym class heroes": [
+"English",
+"Hip-Hop & R&B"
+],
+"ravyn lenae": [
+"English",
+"Hip-Hop & R&B"
+],
+"b o b": [
+"English",
+"Hip-Hop & R&B"
+],
+"arctic monkeys": [
+"English",
+"Indie & Folk"
+],
+"cigarettes after sex": [
+"English",
+"Indie & Folk"
+],
+"the lumineers": [
+"English",
+"Indie & Folk"
+],
+"lord huron": [
+"English",
+"Indie & Folk"
+],
+"mazzy star": [
+"English",
+"Indie & Folk"
+],
+"the neighbourhood": [
+"English",
+"Indie & Folk"
+],
+"glass animals": [
+"English",
+"Indie & Folk"
+],
+"foster the people": [
+"English",
+"Indie & Folk"
+],
+"the 1975": [
+"English",
+"Indie & Folk"
+],
+"rex orange county": [
+"English",
+"Indie & Folk"
+],
+"djo": [
+"English",
+"Indie & Folk"
+],
+"the walters": [
+"English",
+"Indie & Folk"
+],
+"ricky montgomery": [
+"English",
+"Indie & Folk"
+],
+"the rare occasions": [
+"English",
+"Indie & Folk"
+],
+"mom jeans": [
+"English",
+"Indie & Folk"
+],
+"dr dog": [
+"English",
+"Indie & Folk"
+],
+"the smiths": [
+"English",
+"Indie & Folk"
+],
+"crystal castles": [
+"English",
+"Indie & Folk"
+],
+"eyedress": [
+"English",
+"Indie & Folk"
+],
+"gregory alan isakov": [
+"English",
+"Indie & Folk"
+],
+"ray lamontagne": [
+"English",
+"Indie & Folk"
+],
+"noah kahan": [
+"English",
+"Indie & Folk"
+],
+"zach bryan": [
+"English",
+"Indie & Folk"
+],
+"alan jackson": [
+"English",
+"Indie & Folk"
+],
+"josh turner": [
+"English",
+"Indie & Folk"
+],
+"tucker wetmore": [
+"English",
+"Indie & Folk"
+],
+"vincent mason": [
+"English",
+"Indie & Folk"
+],
+"bayker blankenship": [
+"English",
+"Indie & Folk"
+],
+"jonah kagen": [
+"English",
+"Indie & Folk"
+],
+"passenger": [
+"English",
+"Indie & Folk"
+],
+"vance joy": [
+"English",
+"Indie & Folk"
+],
+"hozier": [
+"English",
+"Indie & Folk"
+],
+"kodaline": [
+"English",
+"Indie & Folk"
+],
+"seafret": [
+"English",
+"Indie & Folk"
+],
+"keane": [
+"English",
+"Indie & Folk"
+],
+"gigi perez": [
+"English",
+"Indie & Folk"
+],
+"sombr": [
+"English",
+"Indie & Folk"
+],
+"the dip": [
+"English",
+"Indie & Folk"
+],
+"new west": [
+"English",
+"Indie & Folk"
+],
+"dominurmom": [
+"English",
+"Indie & Folk"
+],
+"yung kai": [
+"English",
+"Indie & Folk"
+],
+"brianjcb": [
+"English",
+"Indie & Folk"
+],
+"mehro": [
+"English",
+"Indie & Folk"
+],
+"fran vasilic": [
+"English",
+"Indie & Folk"
+],
+"dhruv": [
+"English",
+"Indie & Folk"
+],
+"forest blakk": [
+"English",
+"Indie & Folk"
+],
+"noah rinker": [
+"English",
+"Indie & Folk"
+],
+"israel kamakawiwoole": [
+"English",
+"Indie & Folk"
+],
+"howie day": [
+"English",
+"Indie & Folk"
+],
+"jason mraz": [
+"English",
+"Indie & Folk"
+],
+"corinne bailey rae": [
+"English",
+"Indie & Folk"
+],
+"emily linge": [
+"English",
+"Indie & Folk"
+],
+"matthew ifield": [
+"English",
+"Indie & Folk"
+],
+"joseph vincent": [
+"English",
+"Indie & Folk"
+],
+"alex yurkiv": [
+"English",
+"Indie & Folk"
+],
+"10cm": [
+"English",
+"Indie & Folk"
+],
+"famy": [
+"English",
+"Indie & Folk"
+],
+"genrix": [
+"English",
+"Indie & Folk"
+],
+"dom ellis": [
+"English",
+"Indie & Folk"
+],
+"nairud sa wabad": [
+"English",
+"Indie & Folk"
+],
+"the anxiety": [
+"English",
+"Indie & Folk"
+],
+"henry moodie": [
+"English",
+"Indie & Folk"
+],
+"clinton kane": [
+"English",
+"Indie & Folk"
+],
+"cian ducrot": [
+"English",
+"Indie & Folk"
+],
+"stephen speaks": [
+"English",
+"Indie & Folk"
+],
+"lana del rey": [
+"English",
+"Indie & Folk"
+],
+"conan gray": [
+"English",
+"Indie & Folk"
+],
+"ed sheeran": [
+"English",
+"Pop"
+],
+"maroon 5": [
+"English",
+"Pop"
+],
+"coldplay": [
+"English",
+"Pop"
+],
+"justin bieber": [
+"English",
+"Pop"
+],
+"one direction": [
+"English",
+"Pop"
+],
+"taylor swift": [
+"English",
+"Pop"
+],
+"shawn mendes": [
+"English",
+"Pop"
+],
+"james arthur": [
+"English",
+"Pop"
+],
+"benson boone": [
+"English",
+"Pop"
+],
+"billie eilish": [
+"English",
+"Pop"
+],
+"bruno mars": [
+"English",
+"Pop"
+],
+"olivia rodrigo": [
+"English",
+"Pop"
+],
+"post malone": [
+"English",
+"Pop"
+],
+"the chainsmokers": [
+"English",
+"Pop"
+],
+"twenty one pilots": [
+"English",
+"Pop"
+],
+"dan shay": [
+"English",
+"Pop"
+],
+"ellie goulding": [
+"English",
+"Pop"
+],
+"clean bandit": [
+"English",
+"Pop"
+],
+"dj snake": [
+"English",
+"Pop"
+],
+"major lazer": [
+"English",
+"Pop"
+],
+"sean paul": [
+"English",
+"Pop"
+],
+"anne marie": [
+"English",
+"Pop"
+],
+"avicii": [
+"English",
+"Pop"
+],
+"banners": [
+"English",
+"Pop"
+],
+"backstreet boys": [
+"English",
+"Pop"
+],
+"blue": [
+"English",
+"Pop"
+],
+"charli xcx": [
+"English",
+"Pop"
+],
+"christina perri": [
+"English",
+"Pop"
+],
+"connie francis": [
+"English",
+"Pop"
+],
+"david kushner": [
+"English",
+"Pop"
+],
+"dean lewis": [
+"English",
+"Pop"
+],
+"duncan laurence": [
+"English",
+"Pop"
+],
+"fun guns": [
+"English",
+"Pop"
+],
+"graham": [
+"English",
+"Pop"
+],
+"gotye": [
+"English",
+"Pop"
+],
+"harry styles": [
+"English",
+"Pop"
+],
+"imagine dragons": [
+"English",
+"Pop"
+],
+"jawsh 685": [
+"English",
+"Pop"
+],
+"viral djs": [
+"English",
+"Pop"
+],
+"lady gaga": [
+"English",
+"Pop"
+],
+"lauv": [
+"English",
+"Pop"
+],
+"lewis capaldi": [
+"English",
+"Pop"
+],
+"lukas graham": [
+"English",
+"Pop"
+],
+"magic": [
+"English",
+"Pop"
+],
+"meghan trainor": [
+"English",
+"Pop"
+],
+"onerepublic": [
+"English",
+"Pop"
+],
+"olly alexander years and years": [
+"English",
+"Pop"
+],
+"oliver tree": [
+"English",
+"Pop"
+],
+"r city": [
+"English",
+"Pop"
+],
+"ronan keating": [
+"English",
+"Pop"
+],
+"ruth b": [
+"English",
+"Pop"
+],
+"slander": [
+"English",
+"Pop"
+],
+"selena gomez and the scene": [
+"English",
+"Pop"
+],
+"the fray": [
+"English",
+"Pop"
+],
+"the kid laroi": [
+"English",
+"Pop"
+],
+"the vamps": [
+"English",
+"Pop"
+],
+"alec benjamin": [
+"English",
+"Pop"
+],
+"andy grammer": [
+"English",
+"Pop"
+],
+"artemas": [
+"English",
+"Pop"
+],
+"annenmaykantereit": [
+"English",
+"Pop"
+],
+"maverick city music": [
+"English",
+"Pop"
+],
+"johnny orlando": [
+"English",
+"Pop"
+],
+"stephen dawes": [
+"English",
+"Pop"
+],
+"tom grennan": [
+"English",
+"Pop"
+],
+"jessie j": [
+"English",
+"Pop"
+],
+"the script": [
+"English",
+"Pop"
+],
+"fun": [
+"English",
+"Pop"
+],
+"pritam": [
+"Hindi",
+"Bollywood"
+],
+"arijit singh": [
+"Hindi",
+"Bollywood"
+],
+"atif aslam": [
+"Hindi",
+"Bollywood"
+],
+"a r rahman": [
+"Hindi",
+"Bollywood"
+],
+"vishal shekhar": [
+"Hindi",
+"Bollywood"
+],
+"armaan malik": [
+"Hindi",
+"Bollywood"
+],
+"sunidhi chauhan": [
+"Hindi",
+"Bollywood"
+],
+"mohit chauhan": [
+"Hindi",
+"Bollywood"
+],
+"javed ali": [
+"Hindi",
+"Bollywood"
+],
+"abhijeet": [
+"Hindi",
+"Bollywood"
+],
+"mithoon": [
+"Hindi",
+"Bollywood"
+],
+"benny dayal": [
+"Hindi",
+"Bollywood"
+],
+"himesh reshammiya": [
+"Hindi",
+"Bollywood"
+],
+"jasleen royal": [
+"Hindi",
+"Bollywood"
+],
+"jubin nautiyal": [
+"Hindi",
+"Bollywood"
+],
+"kailash kher": [
+"Hindi",
+"Bollywood"
+],
+"lata mangeshkar": [
+"Hindi",
+"Bollywood"
+],
+"meet bros": [
+"Hindi",
+"Bollywood"
+],
+"mohammad faiz": [
+"Hindi",
+"Bollywood"
+],
+"ash king": [
+"Hindi",
+"Bollywood"
+],
+"rahat fateh ali khan": [
+"Hindi",
+"Bollywood"
+],
+"roop kumar rathod": [
+"Hindi",
+"Bollywood"
+],
+"parampara tandon": [
+"Hindi",
+"Bollywood"
+],
+"sachin jigar": [
+"Hindi",
+"Bollywood"
+],
+"sajid wajid": [
+"Hindi",
+"Bollywood"
+],
+"shaan": [
+"Hindi",
+"Bollywood"
+],
+"shafqat amanat ali": [
+"Hindi",
+"Bollywood"
+],
+"shankar mahadevan": [
+"Hindi",
+"Bollywood"
+],
+"shankar ehsaan loy": [
+"Hindi",
+"Bollywood"
+],
+"sonu nigam": [
+"Hindi",
+"Bollywood"
+],
+"vishal mishra": [
+"Hindi",
+"Bollywood"
+],
+"kunal ganjawala": [
+"Hindi",
+"Bollywood"
+],
+"sachet parampara": [
+"Hindi",
+"Bollywood"
+],
+"taaruk raina": [
+"Hindi",
+"Bollywood"
+],
+"prateek kuhad": [
+"Hindi",
+"Indie & Pop"
+],
+"the local train": [
+"Hindi",
+"Indie & Pop"
+],
+"silk route": [
+"Hindi",
+"Indie & Pop"
+],
+"aditya a": [
+"Hindi",
+"Indie & Pop"
+],
+"anuv jain": [
+"Hindi",
+"Indie & Pop"
+],
+"ap dhillon": [
+"Hindi",
+"Indie & Pop"
+],
+"joi barua": [
+"Hindi",
+"Indie & Pop"
+],
+"ali zafar": [
+"Hindi",
+"Indie & Pop"
+]
+}
